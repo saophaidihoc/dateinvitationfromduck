@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Awwwww, Đức thì yêu Linh lắm ó!!";
+  question.innerHTML = "YAYYYYYY!!! Please help me fill this form: https://docs.google.com/forms/d/e/1FAIpQLScSh0WzRS3kKLZRqH7uJdrSH01IO3-B2DSDREnDCloBc9UOKg/viewform?usp=header!!";
   gif.src =
     "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
 });
